@@ -2,7 +2,7 @@
 
 This is a simple React application that fetches data from the Pokémon API, displays the Pokémon in cards with images, and includes a search functionality.
 
-![Pokémon](public/image.png)
+![Pokémon](public/pokemon.png)
 
 ## Features
 
